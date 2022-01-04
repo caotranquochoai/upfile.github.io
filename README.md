@@ -1,6 +1,6 @@
-# Daylight Pirates
+# Giới thiệu
 
-Website: https://daylightpirates.org/
+Website: https://caotranquochoai.github.io
 
-This is the personal website for Daniel Roesler.
+Trang cá nhân 
 
